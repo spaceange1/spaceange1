@@ -1,6 +1,5 @@
 
 
-![Header Image](https://your-image-url.com) 
 
 👋 Hello, folks!
 I'm Yeva Shumakova, a passionate student from Atlanta, GA. 
@@ -17,7 +16,7 @@ I'm Yeva Shumakova, a passionate student from Atlanta, GA.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
--
+
 
 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/yevashumakova/
